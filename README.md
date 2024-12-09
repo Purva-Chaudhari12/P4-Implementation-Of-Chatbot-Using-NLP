@@ -38,12 +38,17 @@ Sentiment Analysis: Incorporate sentiment detection to refine responses based on
 
 
 How to Run the Project
+
 Clone this repository.
+
 Install the required dependencies from requirements.txt.
 
 Run the chatbot application using the command:
+
 bash
+
 Copy code
+
 python chatbot.py
 
 Contributions

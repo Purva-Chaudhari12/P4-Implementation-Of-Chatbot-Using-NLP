@@ -62,7 +62,8 @@ nltk.download('punkt')
 **Usage**
 To run the chatbot application, execute the following command:
 
-streamlit run app.py
+**streamlit run app.py**
+
 Once the application is running, you can interact with the chatbot through the web interface. Type your message in the input box and press Enter to see the chatbot's response.
 
 
